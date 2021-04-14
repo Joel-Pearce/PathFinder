@@ -1,0 +1,18 @@
+[[package]]
+category = "main"
+description = "Pathfinding algorithms (based on Pathfinding.JS)"
+name = "pathfinding"
+optional = false
+python-versions = "*"
+version = "1.0.1"
+
+[metadata]
+content-hash = "ad2124bd105e0fa55e0425b5e8f8d43beeb5c8b9dc518e33ad62f4caad0f2d38"
+python-versions = "^3.8"
+
+[metadata.files]
+pathfinding = [
+    {file = "pathfinding-1.0.1-py3-none-any.whl", hash = "sha256:911a5f8b8fbbdb8c4c8b804501b3a4107595d07663f496f7f3bd9ec87513196a"},
+    {file = "pathfinding-1.0.1-py3.9.egg", hash = "sha256:d06392330203c0729f2ad1781b497837e9e2e8aa5750ba7c434025c72473f4b6"},
+    {file = "pathfinding-1.0.1.tar.gz", hash = "sha256:e735f91173da99b3e0963c315984d5cd616563998de9f58706b0092930fb0675"},
+]
